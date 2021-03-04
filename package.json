@@ -1,0 +1,17 @@
+{
+  "name": "google-schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^67.1.1",
+    "http-server": "^0.12.3"
+  }
+}
